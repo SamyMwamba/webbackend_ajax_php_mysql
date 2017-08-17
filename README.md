@@ -1,5 +1,5 @@
 # webbackend_ajax_php_mysql
-managing your backend using ajax, mysql, php and contenteditable element.
+managing your backend using MVC,ajax, mysql, php and contenteditable element.
 change your data base password in config.php
 
 database data:
